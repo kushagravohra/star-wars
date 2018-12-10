@@ -20,7 +20,7 @@ development server by running
 $ npm start
 ```
 
-And that's it! You should not be able to open http://localhost:3000 in your
+And that's it! You should now be able to open http://localhost:3000 in your
 browser to see the application running.
 
 ## Test
