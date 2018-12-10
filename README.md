@@ -2,6 +2,8 @@
 
 Star-Wars MAy the force be with you.
 
+The project uses react with redux. Asynchronus tasks are handled by redux-saga. And the tests are written using Jest
+
 ## Setup
 Start off by cloning the repository and `cd`ing into the project directory.
 
